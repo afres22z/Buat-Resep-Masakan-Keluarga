@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Resep Masakan Keluarga</string>
+    <string name="permission_dialog">Accessing Location Permissions required</string>
+    <string name="go_to_permissions_settings">Go to App settings and enable permissions</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="bahan"><u>Bahan Bahan</u></string>
+    <string name="cara"><u>Cara Memasak</u></string>
+</resources>
